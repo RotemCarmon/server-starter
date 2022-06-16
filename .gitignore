@@ -1,0 +1,8 @@
+node_modules
+logs
+env_vars.sh
+env_vars
+.vscode
+package-lock.json
+coverage
+.DS_Store
